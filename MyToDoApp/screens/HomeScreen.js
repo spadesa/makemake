@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     marginBottom: 30,
     textAlign: 'center',
-    color: 'black', 
+    color: '#333', 
   },
   buttonContainer: {
     paddingHorizontal: 20,
