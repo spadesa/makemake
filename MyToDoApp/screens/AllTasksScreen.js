@@ -92,11 +92,11 @@ const AllTasksScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#E2F3FD',
+    backgroundColor: '#E8E8E8',
     padding: 10,
   },
   taskItem: {
-    backgroundColor: '#E2F3FD',
+    backgroundColor: 'white',
     padding: 20,
     borderRadius: 10,
     marginVertical: 5,
@@ -105,8 +105,8 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.2,
     shadowRadius: 1.41,
     elevation: 2,
-    borderColor: 'black',
-    borderWidth: 1,
+    //borderColor: 'black',
+    //borderWidth: 1,
   },
   taskTitle: {
     fontWeight: 'bold',
@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
     height: '100%', // Ensuring full height for the buttons
   },
   backBtnEdit: {
-    backgroundColor: 'E2F3FD',
+    backgroundColor: 'E8E8E8',
     right: 120,
     borderColor: 'black',
     borderRightWidth: 1,
