@@ -134,7 +134,7 @@ const styles = StyleSheet.create({
     color: '#ffffff', 
   },
   bottomBar: {
-    backgroundColor: '#899481', 
+    backgroundColor: 'white', 
   },
 });
 
